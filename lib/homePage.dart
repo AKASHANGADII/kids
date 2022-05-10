@@ -16,7 +16,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
         appBar: AppBar(
           title: Text(
-            "Kidzee",
+            "Kidzee Sample",
             textAlign: TextAlign.center,
           ),
         ),
